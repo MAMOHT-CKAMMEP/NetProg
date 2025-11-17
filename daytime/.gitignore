@@ -1,0 +1,27 @@
+# Объектные файлы
+*.o
+
+# Исполняемые файлы
+daytime_client
+
+# Файлы отладки
+*.gch
+
+# Временные файлы
+*~
+*.swp
+*.swo
+
+# Логи
+*.log
+
+# Zone Identifier files (Windows)
+*.Zone.Identifier
+Zone.Identifier
+**/*.Zone.Identifier
+*:Zone.Identifier
+
+# Или все системные файлы Windows
+Thumbs.db
+.DS_Store
+*.lnk
